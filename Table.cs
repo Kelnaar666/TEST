@@ -1,8 +1,7 @@
 ﻿using System;
 
-public class Class1
+public class Table
 {
-	public Class1()
-	{
-	}
+	private int key;
+	private string name;
 }
